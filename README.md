@@ -98,9 +98,9 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
 
 <h2 align="left">🎓 Certifications</h2>
 
-- [Google Cloud Data Analytics Certification](https://example.com)  
-- [Generative AI for Data Analysts (IBM)](https://example.com)  
-- [SQL Intermediate Certification (HackerRank)](https://example.com)  
+- [Google Cloud Data Analytics Certification](https://www.credly.com/badges/72299b11-ce9f-4901-a0e1-fa25470f2ad5)  
+- [Generative AI for Data Analysts (IBM)](https://www.coursera.org/account/accomplishments/specialization/BTET8TKZKFRU)  
+- [SQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/60c1cfcaa3fa)  
 
 <h2 align="left">🌐 Community Contributions</h2>
 
