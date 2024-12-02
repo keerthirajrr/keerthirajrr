@@ -41,6 +41,38 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
   📈 **Methodologies:** Agile, Six Sigma, Lean Processes  
 </p>
 
+<h2 align="left">🏥 US Healthcare & RCM Projects</h2>
+
+- **RCM Analytics Dashboard**
+  - Built an end-to-end claims processing dashboard on **Google Sheets** using **Google Apps Script**, enabling real-time tracking of denials and payments.
+  - Reduced claims processing errors by 25% by automating data validation workflows.
+  - **Technologies Used:** Google Sheets, Google Apps Script, Google BigQuery.
+ 
+- **Revenue Cycle Optimization Dashboard**
+  - Built an interactive dashboard in **Power BI** to visualize claim statuses, denials, and payments for a leading US healthcare provider, resulting in a 20% improvement in revenue collection rates.
+  - **Technologies Used:** Power BI, SQL, Google Apps Script.
+ 
+- **Claims Processing Automation**
+  - Automated claims processing workflows using **Python** and **SQL**, reducing processing time by 30%.
+  - Developed predictive models to identify claims at risk of rejection.
+  - **Technologies Used:** Python, Machine Learning, SQL.
+
+- **Patient Billing Automation**
+  - Automated the patient billing process using **Google Cloud Functions**, integrating with EHR systems to generate and email invoices securely.
+  - Improved billing turnaround time by 30%.
+  - **Technologies Used:** Google Cloud Functions, Google Drive API, Google Apps Script.
+
+- **HIPAA-Compliant Data Workflow**
+  - Developed a secure workflow using **Google Cloud Storage** and **BigQuery** to manage Protected Health Information (PHI).
+  - Implemented encryption and access controls to ensure compliance with HIPAA.
+  - **Technologies Used:** Google Cloud Storage, BigQuery, Data Loss Prevention API.
+
+- **Denial Management Tracker**
+  - Designed a denial management system using **Google Sheets** and **Apps Script**, automating root cause analysis and resolution tracking.
+  - Achieved a 20% reduction in denials within the first quarter of deployment.
+  - **Technologies Used:** Google Sheets, Google Apps Script, BigQuery.
+
+
 <!-- Fun section to stand out -->
 <h2 align="left">⚡ Fun Facts</h2>
 
