@@ -34,13 +34,11 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
 <h2 align="left">🛠️ Tech Toolbox</h2>
 <p>
   
-  💻 **Languages:** Python, SQL, JavaScript , Google Apps Script
-  📊 **BI Tools:** Power BI, Looker Studio, Tableau   
-  🛠️ **Data Skills:** Data Modeling, ETL, Visualization  
-  ☁️ **Cloud & AI:** Google Cloud, Generative AI , BigQuery, Cloud Storage
-  📈 **Methodologies:** Agile, Six Sigma, Lean Processes 
-  **RCM Expertise:** Claims Processing, Denial Management, Revenue Cycle Optimization  
-  **Healthcare Compliance:** HIPAA, CMS Regulations 
+💻 **Programming Languages:** Python, SQL, JavaScript, Google Apps Script  
+📊 **BI Tools:** Power BI, Looker Studio, Tableau  
+☁️ **Cloud & AI:** Google Cloud (BigQuery, Cloud Storage, Cloud Functions), Generative AI  
+📈 **Healthcare Expertise:** Claims Processing, Denial Management, Revenue Cycle Optimization, HIPAA Compliance  
+🛠️ **Methodologies:** Agile, Six Sigma, Lean Processes  
   
 </p>
 
@@ -95,12 +93,41 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
 - Automated ETL processes with **BigQuery** for processing large healthcare datasets.
 - Created custom **Google Apps Script** solutions
 
+<h2 align="left">🎓 Certifications</h2>
+
+- [Google Cloud Data Analytics Certification](https://example.com)  
+- [Generative AI for Data Analysts (IBM)](https://example.com)  
+- [SQL Intermediate Certification (HackerRank)](https://example.com)  
+
+<h2 align="left">🌐 Community Contributions</h2>
+
+<p>Actively participating in and contributing to the tech community through events and organizing activities. Below are some key highlights of my involvement:</p>
+
+#### **🎟️ Events Attended**
+- **Google Cloud Next 2022**: Gained insights into the latest advancements in cloud computing.  
+- **GDG DevFest Bangalore 2022**: Participated in sessions on Android, Web, and Cloud technologies.  
+- **Microsoft AI Tour Bangalore 2023**: Explored cutting-edge AI solutions and applications.  
+- **GDG Cloud Coimbatore 2022**: Learned about Google Cloud innovations and best practices.  
+- **MongoDB Local Bangalore 2023**: Focused on modern data platforms and MongoDB tools.  
+- **AWS Summit Bangalore 2024**: Attended workshops and keynotes on AWS cloud solutions.  
+- **TechXConf Chennai 2024**: Explored trends in data, AI, and cloud computing.
+
+#### **🤝 Event Organization & Community Roles**
+- **PyCon India 2023, 2024**: Member of the organizing team, contributing to the largest Python conference in India.  
+- **Google Developer Groups (GDG) Chennai**: Active organizer for events promoting tech knowledge sharing.  
+- **GDG Cloud Chennai**: Supported cloud-related community events and workshops.  
+- **AZConf Chennai 2023**: Assisted in organizing Azure-focused conferences to empower developers with cloud solutions.
+
+<p>I enjoy fostering a vibrant tech community and sharing knowledge with peers and budding developers.</p>
+
 <!-- Fun section to stand out -->
 <h2 align="left">⚡ Fun Facts</h2>
 
-- Passionate about **mentoring and sharing knowledge** with the analytics community  
-- Enjoy solving **real-world problems** using innovative data solutions  
-- Love exploring **AI trends** and applying them to improve business workflows  
+- I’ve been part of the organizing team for **PyCon India** and love bringing tech communities together.  
+- I’m passionate about **mentoring and sharing knowledge**, having guided budding analysts in building their first dashboards.  
+- I enjoy solving **real-world problems** with data, like automating denial management workflows for healthcare providers.  
+- Love exploring **AI trends** and applying them to improve workflows in healthcare and RCM.  
+- In my free time, I geek out on **space technology** and dream about data analytics applications in interplanetary exploration!  
 
 <!-- Call to action: How to connect -->
 <h2 align="left">📬 Let's Connect!</h2>
