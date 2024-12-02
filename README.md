@@ -17,10 +17,13 @@
 I'm a seasoned Business Analyst and BI Developer with over 5 years of experience in data analytics, reporting, and business intelligence. I specialize in leveraging tools like Power BI, Tableau, and SQL to deliver impactful solutions. I’m passionate about optimizing processes and driving data-driven strategies to achieve business growth.
 </p>
 
-- 🔭 **Currently Working On:** Advanced Power BI dashboards and SQL optimization  
+- 🔭 **Currently Working On:** Advanced Power BI dashboards and SQL optimization
+- 🏥 Specializing in US Healthcare Analytics – Claims, Denials, and RCM Optimization.
+- ☁️ Skilled in Google Cloud, Power BI, and Apps Script for building scalable solutions.
 - 🌱 **Learning Next:** Exploring Azure Data Factory and predictive analytics  
-- ⚙️ **Tech Interests:** Data Modeling, Visualization, and Machine Learning  
-- ✍️ **I Enjoy:** Collaborating with teams, solving business challenges, and mentoring  
+- ⚙️ **Tech Interests:** Data Modeling, Visualization, and Machine Learning
+- 🌟 Open to collaborations and sharing knowledge with the tech community.
+- ✍️ **I Enjoy:** Collaborating with teams, solving business challenges, and mentoring.
 
 <!-- Recent Activity -->
 <h2 align="left">🎯 Recent Achievements</h2>
