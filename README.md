@@ -34,11 +34,14 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
 <h2 align="left">🛠️ Tech Toolbox</h2>
 <p>
   
-  💻 **Languages:** Python, SQL, JavaScript  
-  📊 **BI Tools:** Power BI, Tableau, Qlikview  
+  💻 **Languages:** Python, SQL, JavaScript , Google Apps Script
+  📊 **BI Tools:** Power BI, Looker Studio, Tableau   
   🛠️ **Data Skills:** Data Modeling, ETL, Visualization  
-  ☁️ **Cloud & AI:** Google Cloud, Generative AI  
-  📈 **Methodologies:** Agile, Six Sigma, Lean Processes  
+  ☁️ **Cloud & AI:** Google Cloud, Generative AI , BigQuery, Cloud Storage
+  📈 **Methodologies:** Agile, Six Sigma, Lean Processes 
+  **RCM Expertise:** Claims Processing, Denial Management, Revenue Cycle Optimization  
+  **Healthcare Compliance:** HIPAA, CMS Regulations 
+  
 </p>
 
 <h2 align="left">🏥 US Healthcare & RCM Projects</h2>
@@ -82,6 +85,15 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
   - Achieved a 20% reduction in denials within the first quarter of deployment.
   - **Technologies Used:** Google Sheets, Google Apps Script, BigQuery.
 
+<h2 align="left">💡 Technical Highlights</h2>
+
+- Built interactive **Looker Studio dashboards** with real-time updates from Google BigQuery and Google Sheets.
+- Designed dynamic visualizations for claims tracking, denial analysis, and patient satisfaction metrics.
+- Integrated Looker Studio with **Google Cloud Storage** for secure data pipelines and HIPAA compliance.
+- Used custom fields and calculated metrics to tailor dashboards to client-specific KPIs.
+- Designed HIPAA-compliant workflows using **Google Cloud Storage** with encryption and access controls.
+- Automated ETL processes with **BigQuery** for processing large healthcare datasets.
+- Created custom **Google Apps Script** solutions
 
 <!-- Fun section to stand out -->
 <h2 align="left">⚡ Fun Facts</h2>
