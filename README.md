@@ -2,7 +2,7 @@
 <!-- Heading with centered text and wave emoji -->
 <h1 align="center">Hello, I'm Keerthi N 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0F7B6C&center=true&vCenter=true&width=435&lines=Business+Analyst+%7C+Data+Enthusiast;BI+Developer+%7C+SQL+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=400&color=008080&center=true&vCenter=true&width=500&lines=💻+Business+Analyst+%7C+Data+Enthusiast;📊+BI+Developer+%7C+SQL+Expert;🏥+US+Healthcare+%7C+RCM+Specialist;☁️+Google+Cloud+%7C+Looker+Studio+Pro;📈+Process+Optimization+%7C+Data+Storytelling" alt="Typing SVG" />
 </p>
 
 <!-- Intro with unique styling -->
