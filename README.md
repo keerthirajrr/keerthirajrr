@@ -117,7 +117,7 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
 
 #### **🤝 Event Organization & Community Roles**
 - **PyCon India 2023, 2024**: Member of the organizing team, contributing to the largest Python conference in India.  
-- **Google Developer Groups (GDG) Chennai**: Active organizer for events promoting tech knowledge sharing.  
+- **Google Developer Groups (GDG) Chennai**: Active Crew Member for events promoting tech knowledge sharing.  
 - **GDG Cloud Chennai**: Supported cloud-related community events and workshops.  
 - **AZConf Chennai 2023**: Assisted in organizing Mutli Cloud-focused conferences to empower developers with cloud solutions.
 
