@@ -48,6 +48,16 @@ I'm a seasoned Business Analyst and BI Developer with over 5 years of experience
   - Reduced claims processing errors by 25% by automating data validation workflows.
   - **Technologies Used:** Google Sheets, Google Apps Script, Google BigQuery.
  
+ **Revenue Cycle Insights**
+  - Designed a **Looker Studio RCM dashboard** integrating data from EHR systems to monitor revenue streams, payment delays, and collections performance.
+  - Insights led to a 10% increase in revenue collection efficiency.
+  - **Technologies Used:** Looker Studio, Google Sheets, Google Apps Script.
+
+- **Claims Status Dashboard**
+  - Developed a **Looker Studio dashboard** to visualize claim approvals, denials, and pending claims in real-time for a US healthcare provider.
+  - Reduced denial resolution time by 15% by providing actionable insights on denial reasons and trends.
+  - **Technologies Used:** Looker Studio, Google BigQuery, Google Sheets.
+ 
 - **Revenue Cycle Optimization Dashboard**
   - Built an interactive dashboard in **Power BI** to visualize claim statuses, denials, and payments for a leading US healthcare provider, resulting in a 20% improvement in revenue collection rates.
   - **Technologies Used:** Power BI, SQL, Google Apps Script.
