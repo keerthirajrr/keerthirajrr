@@ -1,142 +1,117 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-link.png" alt="Keerthi N | Healthcare Analytics | BI Developer | GenAI Explorer" />
+</p>
 
-<!-- Heading with centered text and wave emoji -->
+<!-- Heading -->
 <h1 align="center">Hello, I'm Keerthi N 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=400&color=008080&center=true&vCenter=true&width=500&lines=💻+Business+Analyst+%7C+Data+Enthusiast;📊+BI+Developer+%7C+SQL+Expert;🏥+US+Healthcare+%7C+RCM+Specialist;☁️+Google+Cloud+%7C+Looker+Studio+Pro;📈+Process+Optimization+%7C+Data+Storytelling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=400&color=008080&center=true&vCenter=true&width=500&lines=💻+Business+Analyst+%7C+BI+Developer;🏥+US+Healthcare+%7C+RCM+Specialist;☁️+Google+Cloud+%7C+Looker+Studio+Pro;📈+Process+Optimization+%7C+GenAI+Explorer" alt="Typing SVG" />
 </p>
 
-<!-- Intro with unique styling -->
-<p align="center">
-  🚀 Exploring the realms of Data Analytics, Business Intelligence, and Process Optimization <br>
-  🎯 Transforming data into actionable insights for smarter business decisions
-</p>
+<!-- Quick Snapshot -->
+> 📌 **6+ years in Data Analytics & Healthcare RCM | BI Developer | Google Cloud & GenAI Explorer**
 
-<!-- About Me Section with icons -->
-<h2 align="left">🧑‍💻 About Me</h2>
-<p>
-I'm a seasoned Business Analyst and BI Developer with over 5 years of experience in data analytics, reporting, and business intelligence. I specialize in leveraging tools like Power BI, Tableau, and SQL to deliver impactful solutions. I’m passionate about optimizing processes and driving data-driven strategies to achieve business growth.
-</p>
+---
 
-- 🔭 **Currently Working On:** Advanced Power BI dashboards and SQL optimization
-- 🏥 Specializing in US Healthcare Analytics – Claims, Denials, and RCM Optimization.
-- ☁️ Skilled in Google Cloud, Power BI, and Apps Script for building scalable solutions.
-- 🌱 **Learning Next:** Exploring Azure Data Factory and predictive analytics  
-- ⚙️ **Tech Interests:** Data Modeling, Visualization, and Machine Learning
-- 🌟 Open to collaborations and sharing knowledge with the tech community.
-- ✍️ **I Enjoy:** Collaborating with teams, solving business challenges, and mentoring.
+## 🧑‍💻 About Me
 
-<!-- Recent Activity -->
-<h2 align="left">🎯 Recent Achievements</h2>
+I’m a Business Analyst & BI Developer with experience in **Data Analytics, US Healthcare RCM, and Business Intelligence**.  
+I love **transforming raw data into actionable insights**, optimizing processes, and mentoring aspiring analysts.
 
-- **Reduced turnaround time by 25%** through process optimization initiatives  
-- **Developed dashboards** that improved decision-making efficiency by 30%  
-- **Certified in Generative AI for Data Analysts** (IBM) and Google Cloud Data Analytics  
-- **Automated reporting processes** using Python and Google Apps Script  
+- 🔭 Currently working on: **Advanced Power BI Dashboards & SQL Optimization**  
+- 🏥 Specialization: **US Healthcare (Claims, Denials, RCM)**  
+- ☁️ Skilled in: **Google Cloud, Apps Script, BI Tools**  
+- 🌱 Learning: **Azure Data Factory, Predictive Analytics**  
+- 🤝 Open to: **Collaborations, Knowledge Sharing & Mentoring**  
 
-<!-- Skills with creative emojis -->
-<h2 align="left">🛠️ Tech Toolbox</h2>
-<p>
-  
-💻 **Programming Languages:** Python, SQL, JavaScript, Google Apps Script  
-📊 **BI Tools:** Power BI, Looker Studio, Tableau  
-☁️ **Cloud & AI:** Google Cloud (BigQuery, Cloud Storage, Cloud Functions), Generative AI  
-📈 **Healthcare Expertise:** Claims Processing, Denial Management, Revenue Cycle Optimization, HIPAA Compliance  
-🛠️ **Methodologies:** Agile, Six Sigma, Lean Processes  
-  
-</p>
+---
 
-<h2 align="left">🏥 US Healthcare & RCM Projects</h2>
+## 🎯 Key Achievements  
 
-- **RCM Analytics Dashboard**
-  - Built an end-to-end claims processing dashboard on **Google Sheets** using **Google Apps Script**, enabling real-time tracking of denials and payments.
-  - Reduced claims processing errors by 25% by automating data validation workflows.
-  - **Technologies Used:** Google Sheets, Google Apps Script, Google BigQuery.
- 
-- **Revenue Cycle Insights**
-  - Designed a **Looker Studio RCM dashboard** integrating data from EHR systems to monitor revenue streams, payment delays, and collections performance.
-  - Insights led to a 10% increase in revenue collection efficiency.
-  - **Technologies Used:** Looker Studio, Google Sheets, Google Apps Script.
+| 🚀 Achievement | 📊 Impact |
+|----------------|-----------|
+| Process Optimization | ⬇️ Turnaround time by 25% |
+| Automated Claims Processing | ⏱️ 30% faster |
+| Decision-making Dashboards | 📈 +30% efficiency |
+| Patient Billing Automation | ⏱️ 30% faster turnaround |
+| Revenue Cycle Dashboards | 💰 +10% collection efficiency |
+| Denial Management Tracker | 📉 –20% denials in Q1 |
 
-- **Claims Status Dashboard**
-  - Developed a **Looker Studio dashboard** to visualize claim approvals, denials, and pending claims in real-time for a US healthcare provider.
-  - Reduced denial resolution time by 15% by providing actionable insights on denial reasons and trends.
-  - **Technologies Used:** Looker Studio, Google BigQuery, Google Sheets.
- 
-- **Revenue Cycle Optimization Dashboard**
-  - Built an interactive dashboard in **Power BI** to visualize claim statuses, denials, and payments for a leading US healthcare provider, resulting in a 20% improvement in revenue collection rates.
-  - **Technologies Used:** Power BI, SQL, Google Apps Script.
- 
-- **Claims Processing Automation**
-  - Automated claims processing workflows using **Python** and **SQL**, reducing processing time by 30%.
-  - Developed predictive models to identify claims at risk of rejection.
-  - **Technologies Used:** Python, Machine Learning, SQL.
+---
 
-- **Patient Billing Automation**
-  - Automated the patient billing process using **Google Cloud Functions**, integrating with EHR systems to generate and email invoices securely.
-  - Improved billing turnaround time by 30%.
-  - **Technologies Used:** Google Cloud Functions, Google Drive API, Google Apps Script.
+## 🛠️ Tech Toolbox  
 
-- **HIPAA-Compliant Data Workflow**
-  - Developed a secure workflow using **Google Cloud Storage** and **BigQuery** to manage Protected Health Information (PHI).
-  - Implemented encryption and access controls to ensure compliance with HIPAA.
-  - **Technologies Used:** Google Cloud Storage, BigQuery, Data Loss Prevention API.
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-- **Denial Management Tracker**
-  - Designed a denial management system using **Google Sheets** and **Apps Script**, automating root cause analysis and resolution tracking.
-  - Achieved a 20% reduction in denials within the first quarter of deployment.
-  - **Technologies Used:** Google Sheets, Google Apps Script, BigQuery.
+---
 
-<h2 align="left">💡 Technical Highlights</h2>
+## 📂 Featured Projects  
 
-- Built interactive **Looker Studio dashboards** with real-time updates from Google BigQuery and Google Sheets.
-- Designed dynamic visualizations for claims tracking, denial analysis, and patient satisfaction metrics.
-- Integrated Looker Studio with **Google Cloud Storage** for secure data pipelines and HIPAA compliance.
-- Used custom fields and calculated metrics to tailor dashboards to client-specific KPIs.
-- Designed HIPAA-compliant workflows using **Google Cloud Storage** with encryption and access controls.
-- Automated ETL processes with **BigQuery** for processing large healthcare datasets.
-- Created custom **Google Apps Script** solutions
+- 🏥 **Denial Root Cause Analysis Dashboard** → [Repo](#)  
+  *Categorizes denials, payer patterns, AR aging & trends.*  
 
-<h2 align="left">🎓 Certifications</h2>
+- ⚙️ **Healthcare RCM MCP Server (POC)** → [Repo](#)  
+  *Agentic automation for claim analytics & NLP-based denial classification.*  
 
-- [Google Cloud Data Analytics Certification](https://www.credly.com/badges/72299b11-ce9f-4901-a0e1-fa25470f2ad5)  
-- [Generative AI for Data Analysts (IBM)](https://www.coursera.org/account/accomplishments/specialization/BTET8TKZKFRU)  
-- [SQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/60c1cfcaa3fa)  
+- 🤖 **AI Resume Screening App** → [Repo](#)  
+  *Automated resume parser & job-fit scoring using NLP + Google Cloud.*  
 
-<h2 align="left">🌐 Community Contributions</h2>
+---
 
-<p>Actively participating in and contributing to the tech community through events and organizing activities. Below are some key highlights of my involvement:</p>
+## 🏥 US Healthcare & RCM Portfolio  
 
-#### **🎟️ Events Attended**
-- **Google Cloud Next 2022**: Gained insights into the latest advancements in cloud computing.  
-- **GDG DevFest Bangalore 2022**: Participated in sessions on Android, Web, and Cloud technologies.  
-- **Microsoft AI Tour Bangalore 2023**: Explored cutting-edge AI solutions and applications.  
-- **GDG Cloud Coimbatore 2022**: Learned about Google Cloud innovations and best practices.  
-- **MongoDB Local Bangalore 2023**: Focused on modern data platforms and MongoDB tools.  
-- **AWS Summit Bangalore 2024**: Attended workshops and keynotes on AWS cloud solutions.  
-- **TechXConf Chennai 2024**: Explored trends in data, AI, and cloud computing.
+- **RCM Analytics Dashboard** → Automated claims tracking on Google Sheets + Apps Script  
+- **Revenue Cycle Insights** → Looker Studio dashboards (10% boost in revenue collection)  
+- **Claims Status Dashboard** → Real-time claim approvals/denials monitoring  
+- **Revenue Cycle Optimization Dashboard** → Power BI dashboards (20% improvement)  
+- **Claims Processing Automation** → Python + SQL workflows (30% faster)  
+- **Patient Billing Automation** → Cloud Functions for HIPAA-compliant invoicing  
+- **HIPAA-Compliant Data Workflow** → Secure pipelines with BigQuery + GCS  
+- **Denial Management Tracker** → Automated root cause + tracking (20% denial reduction)  
 
-#### **🤝 Event Organization & Community Roles**
-- **PyCon India 2023, 2024**: Member of the organizing team, contributing to the largest Python conference in India.  
-- **Google Developer Groups (GDG) Chennai**: Active Crew Member for events promoting tech knowledge sharing.  
-- **GDG Cloud Chennai**: Supported cloud-related community events and workshops.  
-- **AZConf Chennai 2023**: Assisted in organizing Mutli Cloud-focused conferences to empower developers with cloud solutions.
+---
 
-<p>I enjoy fostering a vibrant tech community and sharing knowledge with peers and budding developers.</p>
+## 🎓 Certifications  
 
-<!-- Fun section to stand out -->
-<h2 align="left">⚡ Fun Facts</h2>
+- [Google Cloud Data Analytics](https://www.credly.com/badges/72299b11-ce9f-4901-a0e1-fa25470f2ad5)  
+- [Generative AI for Data Analysts – IBM](https://www.coursera.org/account/accomplishments/specialization/BTET8TKZKFRU)  
+- [SQL Intermediate – HackerRank](https://www.hackerrank.com/certificates/60c1cfcaa3fa)  
 
-- I’ve been part of the organizing team for **PyCon India** and love bringing tech communities together.  
-- I’m passionate about **mentoring and sharing knowledge**, having guided budding analysts in building their first dashboards.  
-- I enjoy solving **real-world problems** with data, like automating denial management workflows for healthcare providers.  
-- Love exploring **AI trends** and applying them to improve workflows in healthcare and RCM.  
-- In my free time, I geek out on **space technology** and dream about data analytics applications in interplanetary exploration!  
+---
 
-<!-- Call to action: How to connect -->
-<h2 align="left">📬 Let's Connect!</h2>
-<p>
-I’m always open to new ideas, collaborations, and opportunities. Feel free to reach out to discuss data, BI, or anything exciting!  
-</p>
+## 🌐 Community Engagement  
+
+**Community Roles & Events**  
+📅 **2022** → Google Cloud Next, GDG DevFest, GDG Cloud Coimbatore  
+📅 **2023** → Microsoft AI Tour, MongoDB Local, PyCon India (Organizer)  
+📅 **2024** → AWS Summit, TechXConf Chennai, PyCon India (Organizer), GDG Chennai  
+
+---
+
+## ⚡ Fun Facts  
+
+- Organizer at **PyCon India** & active in **GDG Chennai**  
+- Mentor for budding analysts (helping build first dashboards)  
+- Passionate about **AI + Healthcare workflows**  
+- Curious about **space technology & interplanetary data analytics** 🚀  
+
+---
+
+## 📊 GitHub Activity  
+
+![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthirajrr&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthirajrr&layout=compact&theme=radical)  
+
+---
+
+## 📬 Let’s Connect!  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nkeerthiraj/" target="_blank">
@@ -147,7 +122,8 @@ I’m always open to new ideas, collaborations, and opportunities. Feel free to 
   </a>
 </p>
 
-<!-- Footer: Inspirational Quote -->
+---
+
 <p align="center">
   🌟 "Turning data into stories that inspire smarter decisions."  
 </p>
