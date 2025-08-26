@@ -1,11 +1,9 @@
 <!-- Heading -->
 <h1 align="center">Hello, I'm Keerthi N 👋</h1>
-<p align="center">
 
 
 <!-- Quick Snapshot -->
-> 
-##
+
 🧑‍💻 About Me
 
 I’m a Healthcare Data Analytics & AI Consultant with 6+ years of experience helping organizations unlock value from claims, denials, and RCM data.
