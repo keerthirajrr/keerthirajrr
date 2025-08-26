@@ -10,20 +10,20 @@
 </p>
 
 <!-- Quick Snapshot -->
-> 📌 **6+ years in Data Analytics & Healthcare RCM | BI Developer | Google Cloud & GenAI Explorer**
+> 
+## 🧑‍💻 About Me  
 
----
+I’m a **Healthcare Data Analytics & AI Consultant** with 6+ years of experience helping organizations unlock value from **claims, denials, and RCM data**.  
+My work lies at the intersection of **Healthcare Domain Expertise, Business Intelligence, and Generative AI**, enabling smarter decision-making and automation.  
 
-## 🧑‍💻 About Me
+- 🔭 **Currently Exploring**: Advanced Denial Analytics Dashboards, CPT Validation Engines, and AI-powered RCM workflows  
+- 🏥 **Domain Specialization**: US Healthcare — Claims, Denials, RCM, Coding Operations  
+- ☁️ **Tech Stack**: Power BI, SQL, Google Cloud, Apps Script, Looker Studio, React, Python  
+- 🌱 **Learning**: Azure Data Factory, Predictive Analytics & Agentic AI frameworks  
+- 🤝 **Open to**: Collaborations, Freelance Consulting, Mentoring, and Knowledge Sharing  
 
-I’m a Business Analyst & BI Developer with experience in **Data Analytics, US Healthcare RCM, and Business Intelligence**.  
-I love **transforming raw data into actionable insights**, optimizing processes, and mentoring aspiring analysts.
-
-- 🔭 Currently working on: **Advanced Power BI Dashboards & SQL Optimization**  
-- 🏥 Specialization: **US Healthcare (Claims, Denials, RCM)**  
-- ☁️ Skilled in: **Google Cloud, Apps Script, BI Tools**  
-- 🌱 Learning: **Azure Data Factory, Predictive Analytics**  
-- 🤝 Open to: **Collaborations, Knowledge Sharing & Mentoring**  
+💡 I love **transforming raw healthcare data into actionable insights**, designing **intuitive dashboards**, and building **automation pipelines** that improve efficiency.  
+Beyond work, I actively contribute to **developer communities (GDG, Cloud, PyCon, AWS Summit)** and enjoy mentoring aspiring analysts.  
 
 ---
 
