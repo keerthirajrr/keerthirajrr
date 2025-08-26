@@ -5,8 +5,7 @@
 
 <!-- Quick Snapshot -->
 > 
-## :
-
+##
 🧑‍💻 About Me
 
 I’m a Healthcare Data Analytics & AI Consultant with 6+ years of experience helping organizations unlock value from claims, denials, and RCM data.
