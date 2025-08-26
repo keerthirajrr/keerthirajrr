@@ -1,22 +1,29 @@
 <!-- Heading -->
 <h1 align="center">Hello, I'm Keerthi N 👋</h1>
 
+<p align="center">
+  
+</p>
 
-<!-- Quick Snapshot -->
+<!-- Intro with unique styling -->
+<p align="center">
+ 🚀 Exploring the intersection of Healthcare Analytics, Business Intelligence, and Agentic AI <br>
+🎯 Driving smarter RCM decisions through data, automation, and insights <br>
+</p>
 
-🧑‍💻 About Me
+<!-- About Me Section with icons -->
+<h2 align="left">🧑‍💻 About Me</h2>
+<p>I’m a Healthcare Data Analytics & AI Consultant with 6+ years of experience helping organizations unlock value from claims, denials, and RCM data.
+My work lies at the intersection of Healthcare Domain Expertise, Business Intelligence, and Generative AI, enabling smarter decision-making and automation.</p>
 
-I’m a Healthcare Data Analytics & AI Consultant with 6+ years of experience helping organizations unlock value from claims, denials, and RCM data.
-My work lies at the intersection of Healthcare Domain Expertise, Business Intelligence, and Generative AI, enabling smarter decision-making and automation.
+🔭 Currently Exploring: Advanced Denial Analytics Dashboards, CPT Validation Engines, AI-powered RCM workflows, and Agentic AI automation with UiPath<br>
+🏥 Domain Specialization: US Healthcare — Claims, Denials, RCM, Coding Operations<br>
+☁️ Tech Stack: Power BI, SQL, Google Cloud, Apps Script, Looker Studio, React, Python, UiPath, Azure DevOps, JIRA<br>
+🌱 Learning: Azure Data Factory, Predictive Analytics & Agentic AI frameworks<br>
+🤝 Open to: Collaborations, Freelance Consulting, Mentoring, and Knowledge Sharing<br>
+💡 I love transforming raw healthcare data into actionable insights, designing intuitive dashboards, and building automation pipelines that improve efficiency.<br>
 
-🔭 Currently Exploring: Advanced Denial Analytics Dashboards, CPT Validation Engines, AI-powered RCM workflows, and Agentic AI automation with UiPath
-🏥 Domain Specialization: US Healthcare — Claims, Denials, RCM, Coding Operations
-☁️ Tech Stack: Power BI, SQL, Google Cloud, Apps Script, Looker Studio, React, Python, UiPath, Azure DevOps, JIRA
-🌱 Learning: Azure Data Factory, Predictive Analytics & Agentic AI frameworks
-🤝 Open to: Collaborations, Freelance Consulting, Mentoring, and Knowledge Sharing
-💡 I love transforming raw healthcare data into actionable insights, designing intuitive dashboards, and building automation pipelines that improve efficiency.
-
-Beyond work, I actively contribute to developer communities (GDG, Cloud, PyCon, AWS Summit) and enjoy mentoring aspiring analysts.
+<p>Beyond work, I actively contribute to developer communities (GDG, Cloud, PyCon, AWS Summit) and enjoy mentoring aspiring analysts.</p>
 ---
 
 ## 🎯 Key Achievements  
