@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-link.png" alt="Keerthi N | Healthcare Analytics | BI Developer | GenAI Explorer" />
-</p>
-
 <!-- Heading -->
 <h1 align="center">Hello, I'm Keerthi N 👋</h1>
 <p align="center">
@@ -90,14 +85,16 @@ Beyond work, I actively contribute to **developer communities (GDG, Cloud, PyCon
 
 **Community Roles & Events**  
 📅 **2022** → Google Cloud Next, GDG DevFest, GDG Cloud Coimbatore  
-📅 **2023** → Microsoft AI Tour, MongoDB Local, PyCon India (Organizer)  
-📅 **2024** → AWS Summit, TechXConf Chennai, PyCon India (Organizer), GDG Chennai  
+📅 **2023** → Microsoft AI Tour, MongoDB Local, PyCon India (Crew)  
+📅 **2024** → Microsoft AI Tour, AWS Summit, TechXConf Chennai, Kubecon India, PyCon India (Crew), GDG Chennai (Crew)  
+📅 **2025** → GDG Cloud Chennai (Crew), AWS Summit, KubeCon India, Microsoft AI Tour, Multi-Cloud Community Events  
+
 
 ---
 
 ## ⚡ Fun Facts  
 
-- Organizer at **PyCon India** & active in **GDG Chennai**  
+- Active Crew at **PyCon India** & active in **GDG Chennai**  
 - Mentor for budding analysts (helping build first dashboards)  
 - Passionate about **AI + Healthcare workflows**  
 - Curious about **space technology & interplanetary data analytics** 🚀  
