@@ -1,8 +1,7 @@
 <!-- Heading -->
 <h1 align="center">Hello, I'm Keerthi N 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=400&color=008080&center=true&vCenter=true&width=500&lines=💻+Business+Analyst+%7C+BI+Developer;🏥+US+Healthcare+%7C+RCM+Specialist;☁️+Google+Cloud+%7C+Looker+Studio+Pro;📈+Process+Optimization+%7C+GenAI+Explorer" alt="Typing SVG" />
-</p>
+
 
 <!-- Quick Snapshot -->
 > 
@@ -49,13 +48,13 @@ Beyond work, I actively contribute to **developer communities (GDG, Cloud, PyCon
 
 ## 📂 Featured Projects  
 
-- 🏥 **Denial Root Cause Analysis Dashboard** → [Repo](#)  
+- 🏥 **Denial Root Cause Analysis Dashboard**
   *Categorizes denials, payer patterns, AR aging & trends.*  
 
-- ⚙️ **Healthcare RCM MCP Server (POC)** → [Repo](#)  
+- ⚙️ **Healthcare RCM MCP Server (POC)**
   *Agentic automation for claim analytics & NLP-based denial classification.*  
 
-- 🤖 **AI Resume Screening App** → [Repo](#)  
+- 🤖 **AI Resume Screening App**
   *Automated resume parser & job-fit scoring using NLP + Google Cloud.*  
 
 ---
